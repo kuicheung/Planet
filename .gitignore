@@ -1,0 +1,6 @@
+*.unityproj
+*.pidb
+*.csproj
+/Android
+/web player
+/windows
