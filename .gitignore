@@ -1,6 +1,9 @@
 *.unityproj
 *.pidb
 *.csproj
+*.sln
+*.userprefs
+*.unitypackage
 /Android
 /web player
 /windows
